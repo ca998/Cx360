@@ -1,0 +1,6 @@
+{
+  "name": "CX360 AI",
+  "description": "Enterprise AI-Powered Omnichannel Customer Experience & Contact Centre SaaS Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
